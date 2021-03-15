@@ -13,3 +13,8 @@ In the filter section, you will see 5 different input box that use to entry the 
 !()[]
 
 ## Summary
+The design of this webpage looks clean, visually appealing page where each element meshes well with the next. Although it looks well and the function of filter works perfectly, there is a drawback in searching table of this webpage. Any search element in table that doesn't match or exist, the search bar doesn't show any message to state error status of search, it makes user dont know why there are no result in the table. There will be 2 recommendation I recommend for improving the webpage:
+
+1. Make the entries in search bar igoreing the sense of lower/upper case letter, also make the search bar accecpting any format of date time for date filter.
+
+2. When the element entered in the filter search are not exist or doesn't match any data content in the table, will display a message to show what's going on.
